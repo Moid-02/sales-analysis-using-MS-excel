@@ -1,4 +1,4 @@
-# sales-analysis-using-MS-excel
+# Sales-Analysis-using-MS-excel
 This project focuses on analyzing sales data to extract meaningful insights and visual trends for better decision-making. The analysis was conducted using Python and relevant data visualization libraries to understand customer behavior, order patterns, and channel performance during the year 2022.
 
 # 🔍 Objectives
